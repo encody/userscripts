@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         StackExchange Timeline Link
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://geeklaunch.net/
+// @version      0.0.1
 // @description  Add timeline links to posts.
 // @author       Jacob
 // @match        *://stackexchange.com/*
